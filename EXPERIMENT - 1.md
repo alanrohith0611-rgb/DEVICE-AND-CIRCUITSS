@@ -1,6 +1,6 @@
 # CHARACTERISTICS OF PN  JUNCTION DIODE
 
-# AIM :
+# AIM :scs
 To plot the V-I characteristics of PN junction diode. 
 
 # APPARATUS REQUIRED:
